@@ -1,1 +1,1 @@
-# ForoHub-Challenge
+# ForoHub Challenge
